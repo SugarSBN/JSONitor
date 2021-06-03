@@ -11,11 +11,11 @@
 
 ### 界面截图
 
-<img src="\pics\1.png" alt="1" style="zoom:33%;" />
+<img src="pics\1.png" alt="1" style="zoom:33%;" />
 
-<img src="\pics\2.png" alt="2" style="zoom:33%;" />
+<img src="pics\2.png" alt="2" style="zoom:33%;" />
 
-<img src="\pics\3.png" alt="3" style="zoom:33%;" />
+<img src="pics\3.png" alt="3" style="zoom:33%;" />
 
 ### 功能以及开发记录（碎碎念）
 
